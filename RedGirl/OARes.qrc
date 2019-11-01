@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/images/email_notify.png</file>
+        <file>resource/images/oa_settings.png</file>
+        <file>resource/images/service_control.png</file>
+        <file>resource/images/time_settings.png</file>
+        <file>resource/images/check.png</file>
+        <file>resource/images/uncheck.png</file>
+        <file>resource/images/banner.gif</file>
+        <file>resource/images/qq.png</file>
+        <file>resource/images/loginbanner.png</file>
+    </qresource>
+    <qresource prefix="/skin">
+        <file>resource/OASkin.txt</file>
+    </qresource>
+</RCC>
